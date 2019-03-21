@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+Let's Learn About Migrations	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# Let's Learn About Migrations$/;"	function	line:1
+Objective	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^## Objective$/;"	function	line:3
+Setup	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^## Setup$/;"	function	line:7
+Migrations	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^## Migrations$/;"	function	line:23
+Setting Up Your Migration	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^### Setting Up Your Migration$/;"	function	line:50
+db/migrate/01_create_artists.rb	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# db\/migrate\/01_create_artists.rb$/;"	function	line:81
+Active Record Migration Methods: up, down, change	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^### Active Record Migration Methods: up, down, change$/;"	function	line:92
+db/migrate/01_create_artists.rb	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# db\/migrate\/01_create_artists.rb$/;"	function	line:104
+Creating a Table	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^### Creating a Table$/;"	function	line:122
+db/migrate/01_create_artists.rb	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# db\/migrate\/01_create_artists.rb$/;"	function	line:158
+db/migrate/01_create_artists.rb	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# db\/migrate\/01_create_artists.rb$/;"	function	line:173
+Running Migrations	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^### Running Migrations$/;"	function	line:196
+config/environment.rb	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# config\/environment.rb$/;"	function	line:209
+artist.rb	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# artist.rb$/;"	function	line:233
+artist.rb	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# artist.rb$/;"	function	line:242
+Try Out The Following:	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^### Try Out The Following:$/;"	function	line:252
+=> Artist (call 'Artist.connection' to establish a connection)	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# => Artist (call 'Artist.connection' to establish a connection)$/;"	function	line:258
+=> ["id", "name", "genre", "age", "hometown"]	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# => ["id", "name", "genre", "age", "hometown"]$/;"	function	line:265
+=>	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# => #<Artist id: nil, name: "Jon", genre: nil, age: nil, hometown: nil>$/;"	function	line:272
+=> 30	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# => 30$/;"	function	line:275
+=> true	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# => true$/;"	function	line:278
+=>	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# => #<Artist id: 2, name: "Kelly", genre: nil, age: nil, hometown: nil>$/;"	function	line:287
+=> [	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# => [#<Artist id: 1, name: "Jon", genre: nil, age: 30, hometown: nil>,$/;"	function	line:294
+=>	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# => #<Artist id: 1, name: "Jon", genre: nil, age: 30, hometown: nil>$/;"	function	line:302
+Using Migrations To Manipulate Existing Tables	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^## Using Migrations To Manipulate Existing Tables$/;"	function	line:310
+db/migrate/02_add_favorite_food_to_artists.rb	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# db\/migrate\/02_add_favorite_food_to_artists.rb$/;"	function	line:327
+=> ["id", "name", "genre", "age", "hometown", "favorite_food"]	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# => ["id", "name", "genre", "age", "hometown", "favorite_food"]$/;"	function	line:358
+=> ["id", "name", "genre", "age", "hometown"]	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/README.md	/^# => ["id", "name", "genre", "age", "hometown"]$/;"	function	line:375
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/mechanics-of-migrations-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
